@@ -17,7 +17,7 @@
 - 🎯 Currently learning **MUI, DSA, and Backend Development**  
 - 🔥 Passionate about **creating user-friendly web applications**  
 - 💬 Ask me anything about **React.js, Frontend Development, and UI/UX**  
-- 📩 Reach out to me at **syedsufiyan787@gmail.com**  
+- 📩 Reach out to me  at **syedsufiyan787@gmail.com**  
 - 🌱 Exploring **Cloud Computing (Azure) & Software Testing**  
 
 ---
