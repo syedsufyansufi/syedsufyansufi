@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/SufiyanGitHub/SufiyanGitHub/main/banner.png](https://github.com/syedsufyansufi/syedsufyansufi/blob/main/github-header-image%20(1).png?raw=true)" alt="Sufiyan's GitHub Banner">
+  <img src="github-header-image(1).png" alt="Sufiyan's GitHub Banner">
 </p>
 
 <h1 align="center">Hi 👋, I'm Sufiyan!</h1>
