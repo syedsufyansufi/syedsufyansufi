@@ -65,5 +65,5 @@
 
 ---
 
-🔥 _Thanks for visiting my profile! If you find my repositories helpful, don't forget to ⭐ them! 😊
+🔥 _Thanks for visiting my profile! If you find my repositories helpful, don't forget to ⭐ them! 😊.
 
