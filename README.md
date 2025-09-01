@@ -60,8 +60,8 @@
 ## 🌍 Let's Connect  
 
 📧 **Email:** [syedsufyan787@gmail.com](mailto:syedsufyan787@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/syedsufyansufi](#)  
-💻 **Portfolio:** [your-portfolio-link.com](#)  
+💼 **LinkedIn:** [https://www.linkedin.com/in/syedsufiyan7/](#)  
+💻 **Portfolio:** [https://portfolio-ochre-ten-62.vercel.app/](#)  
 
 ---
 
